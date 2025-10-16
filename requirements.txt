@@ -1,0 +1,8 @@
+fastapi[standard]
+pymongo==4.15.3
+passlib==1.7.4
+bcrypt==4.3.0
+python-jose==3.4.0
+uvicorn==0.37.0
+setuptools
+python-dotenv==1.1.0
