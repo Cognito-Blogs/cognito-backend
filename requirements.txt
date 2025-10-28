@@ -6,3 +6,4 @@ python-jose==3.4.0
 uvicorn==0.37.0
 setuptools
 python-dotenv==1.1.0
+PyJWT
